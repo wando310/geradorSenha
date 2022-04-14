@@ -1,0 +1,35 @@
+body{
+    width: 600px;
+    margin: auto;
+    padding: 0;
+    background: rgb(241, 241, 241);
+    text-align: center;
+}
+.container-password{
+    display: flex;
+    flex-direction: column;
+}
+.password{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+h1{
+    font-size: 3rem;
+}
+input{
+    padding: 20px;
+    font-size: 1.5rem;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.count-senha{
+    font-size: 2rem;
+    margin-top: 20px;
+    color: blue;
+    font-weight: 800;
+}
+.color{
+    color: rgb(212, 139, 4);
+}
